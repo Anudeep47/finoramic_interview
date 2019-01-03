@@ -1,0 +1,6 @@
+{
+ "Dependencies" : {
+  "beautifulsoup4":"4.4.1",
+  "nltk":"3.2.4"
+}
+}
